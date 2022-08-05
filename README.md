@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A full stack developer from London</h3>
 
+- 👨‍💻 My most recent project is [FreshPics](freshpics.me)
+
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **my experience using SQL & Python as a data analyst**
